@@ -1,0 +1,11 @@
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.AssemblyReference.cache
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.SuggestedBindingRedirects.cache
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+D:\HK2_NAM2\LAPTRINHTRENWINDOWS\Project_MidTerm\PaintApp\PaintApp\obj\Debug\PaintApp.pdb
